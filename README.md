@@ -1,6 +1,6 @@
 # 🚀 Site Dreamer Boy
 
-Criado como porfolio para minha loja virtual de Design Gráfico, e agregação de conteudo no meu GitHub para futuras contratações. Tem como objetivo uma breve apresentação pessoal, e acresentar projetos futuros.
+Criado como porfolio para minha loja virtual de Design Gráfico, e agregação de conteudo no meu GitHub para futuras contratações. Tem como objetivo uma breve apresentação pessoal, e acresentar projetos futuros. Esse personagem roxo é o que eu utilizo na minha loja pessoal e pretendo utilizar ele como marca, bora conferir abaixo o site:
 
 
 
